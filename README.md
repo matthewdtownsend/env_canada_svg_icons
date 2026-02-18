@@ -1,4 +1,4 @@
-![image](https://github.com/matthewdtownsend/env_canada_svg_icons/blob/main/icons/19.svg)
+![image](https://github.com/matthewdtownsend/env_canada_svg_icons/blob/main/icons/09.svg)
 
 # env_canada_svg_icons
 *Unofficial versions of Environment Canada's weather icons, made for modern displays*
@@ -22,6 +22,17 @@ These SVG icons serve as drop-in replacements for [Environment Canada](https://w
 
 Use the icon code provided by the Environment Canada API to point to the corresponding file.
 
+
+## Samples
+
+| Original | SVG |
+| ------------- | ------------- |
+| ![image](https://weather.gc.ca/weathericons/00.gif)  | ![image](https://github.com/matthewdtownsend/env_canada_svg_icons/blob/main/icons/00.svg) |
+| ![image](https://weather.gc.ca/weathericons/17.gif)  | ![image](https://github.com/matthewdtownsend/env_canada_svg_icons/blob/main/icons/17.svg) |
+| ![image](https://weather.gc.ca/weathericons/30.gif)  | ![image](https://github.com/matthewdtownsend/env_canada_svg_icons/blob/main/icons/30.svg) |
+| ![image](https://weather.gc.ca/weathericons/40.gif)  | ![image](https://github.com/matthewdtownsend/env_canada_svg_icons/blob/main/icons/40.svg) |
+
+
 ## About
 
-Made with Inkscape. First developed for [The South Dartmouth Post](https://southdartmouth.ca).
+Made with [Inkscape](https://github.com/inkscape/inkscape). First developed for [The South Dartmouth Post](https://southdartmouth.ca).
